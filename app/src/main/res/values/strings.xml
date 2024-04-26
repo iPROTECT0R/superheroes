@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">superheroes</string>
+    <string name="hero1">Superman</string>
+    <string name="description1">The Man of Steel</string>
+    <string name="hero2">Catwoman</string>
+    <string name="description2">Cat Like Reflexes</string>
+    <string name="hero3">Iron Man</string>
+    <string name="description3">Genius, Billionaire, Playboy, Philanthropist</string>
+    <string name="hero4">Spider-Man</string>
+    <string name="description4">Friendly Neighborhood Hero</string>
+    <string name="hero5">Captain America</string>
+    <string name="description5">Sentinel of Liberty</string>
+    <string name="hero6">Wonder Woman</string>
+    <string name="description6">Amazonian Warrior</string>
+</resources>
